@@ -1,5 +1,5 @@
 const url ='http://api.openweathermap.org/data/2.5/';
-const key = 'c430638e277b0cbc6dcf678db55bc990';
+const key = 'private-key-here'; // openweatherdan alınan private key yazılacak
 
 
 // 'enter' a basınca değer çekme fonskiyonu çalışsın.
